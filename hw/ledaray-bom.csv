@@ -1,0 +1,9 @@
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref
+1;C3,C2,C4,C5;C_0805_2012Metric;4;.47uF;C16780 
+2;C6,C8,C7;C_0805_2012Metric;3;.1uF;C49678 
+3;R2;R_0805_2012Metric;1;20k;C4328 
+4;U1;QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm;1;IS31FL3733-TQ;C506251 
+5;R3,R1,R4;R_0805_2012Metric;3;100k;C96346 
+6;C9;CP_Elec_5x5.3;1;22uF;C4747978 
+7;J1,J3;IDC-Header_2x08_P2.54mm_Vertical_SMD;2;Conn_02x08_Odd_Even;C2685064 
+8;U2,U5,U3,U4;LPTL21157AGBW2;4;~;
